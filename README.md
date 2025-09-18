@@ -58,7 +58,7 @@ Inputs must match exactly the names in your `.riv` file.
 ## 🎬 Demo
 Add a GIF that shows the full flow (typing, focus changes, success and fail):
 
-![Demo](assets/BearExample)
+![Demo](assets/BearExample.gif)
 
 Tip: Place your GIF at `docs/demo.gif`. You can record with tools like ScreenToGif (Windows).
 
