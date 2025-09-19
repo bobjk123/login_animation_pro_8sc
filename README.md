@@ -65,8 +65,8 @@ Tip: Place your GIF at `docs/demo.gif`. You can record with tools like ScreenToG
 ---
 
 ## 📚 Course
-- Course: [Replace with course name]
-- Instructor: [Replace with instructor name]
+- Course: Mobile Application Development
+- Instructor: Rodrigo Fidel Gaxiola Sosa
 
 ---
 
